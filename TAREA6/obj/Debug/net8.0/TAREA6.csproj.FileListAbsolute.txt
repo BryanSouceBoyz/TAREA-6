@@ -1,0 +1,14 @@
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\TAREA6\TAREA6\bin\Debug\net8.0\TAREA6.exe
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\TAREA6\TAREA6\bin\Debug\net8.0\TAREA6.deps.json
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\TAREA6\TAREA6\bin\Debug\net8.0\TAREA6.runtimeconfig.json
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\TAREA6\TAREA6\bin\Debug\net8.0\TAREA6.dll
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\TAREA6\TAREA6\bin\Debug\net8.0\TAREA6.pdb
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\TAREA6\TAREA6\obj\Debug\net8.0\TAREA6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\TAREA6\TAREA6\obj\Debug\net8.0\TAREA6.AssemblyInfoInputs.cache
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\TAREA6\TAREA6\obj\Debug\net8.0\TAREA6.AssemblyInfo.cs
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\TAREA6\TAREA6\obj\Debug\net8.0\TAREA6.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\TAREA6\TAREA6\obj\Debug\net8.0\TAREA6.dll
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\TAREA6\TAREA6\obj\Debug\net8.0\refint\TAREA6.dll
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\TAREA6\TAREA6\obj\Debug\net8.0\TAREA6.pdb
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\TAREA6\TAREA6\obj\Debug\net8.0\TAREA6.genruntimeconfig.cache
+C:\Users\bryan\Desktop\PRACTICAS ITLA\PROGRAMACION1\TAREA6\TAREA6\obj\Debug\net8.0\ref\TAREA6.dll
